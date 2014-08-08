@@ -1,0 +1,14 @@
+<lexicon lang="de">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Beschreibung der Server-Hardware</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Dieser Bericht fasst die Konfiguration der Server-Hardware zusammen. Sie können diese Seite ausdrucken und als Referenz verwenden.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Hardware Informationen</trans>
+    </entry>
+</lexicon>

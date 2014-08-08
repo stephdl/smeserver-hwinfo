@@ -1,0 +1,14 @@
+<lexicon lang="ro">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Descriere hardware a serverului</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Acest raport face sumarul componentelor hardware ale serverului. Puteți imprima această pagină si să o utilizați ca referință</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Informații hardware</trans>
+    </entry>
+</lexicon>

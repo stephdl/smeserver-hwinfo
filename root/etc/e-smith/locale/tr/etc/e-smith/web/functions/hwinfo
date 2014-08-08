@@ -1,0 +1,14 @@
+<lexicon lang="tr">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Sunucu donanım bilgisi</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Bu rapor, sunucu donanım yapılandırmasını özetler. Bu sayfayı yazdırmak isteyebilirsiniz ve referans olarak kullanabilirsiniz.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Donanım bilgisi</trans>
+    </entry>
+</lexicon>

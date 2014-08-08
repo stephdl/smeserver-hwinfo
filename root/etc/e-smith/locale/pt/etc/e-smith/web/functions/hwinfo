@@ -1,0 +1,14 @@
+<lexicon lang="pt">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Descrição do hardware do Servidor</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Este relatório contém um sumário de toda a configuração de hardware do servidor. Você pode desejar imprimir esta página e usá-la como referência.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Informação do hardware</trans>
+    </entry>
+</lexicon>

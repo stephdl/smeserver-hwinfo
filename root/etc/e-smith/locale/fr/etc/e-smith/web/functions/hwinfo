@@ -1,0 +1,14 @@
+<lexicon lang="fr">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Description de la configuration matérielle du serveur</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Cet état vous donne le détail de la configuration matérielle de votre serveur. Vous pouvez l'imprimer pour l'utiliser comme descriptif de référence.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Configuration matérielle</trans>
+    </entry>
+</lexicon>

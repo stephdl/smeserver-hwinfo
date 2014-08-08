@@ -1,0 +1,11 @@
+\{
+    unless ($NO_FRAMES)
+    \{
+       $OUT .= <<EOF;
+  <style type="text/css"> 
+  \@import url("/server-common/css/hwinfo.css");
+  </style>
+EOF
+    \}
+    $OUT;
+\}

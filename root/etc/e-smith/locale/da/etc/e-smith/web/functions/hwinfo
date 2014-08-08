@@ -1,0 +1,14 @@
+<lexicon lang="da">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Serverens hardware beskrivelse</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Denne rapport opsummerer serverens hardware-opsætning. Du kan udskrive denne side og bruge den som reference.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Hardware information</trans>
+    </entry>
+</lexicon>

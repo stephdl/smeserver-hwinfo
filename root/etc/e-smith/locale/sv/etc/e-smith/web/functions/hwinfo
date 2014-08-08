@@ -1,0 +1,14 @@
+<lexicon lang="sv">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Beskrivning över serverns hårdvara</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Denna rapport summerar serverns hårdvarukonfiguration. Du kan skriva ut denna sida och använda utskriften som en referens.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Hårdvaruinformation</trans>
+    </entry>
+</lexicon>

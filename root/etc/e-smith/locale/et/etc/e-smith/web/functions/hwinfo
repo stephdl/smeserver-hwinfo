@@ -1,0 +1,14 @@
+<lexicon lang="et">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Serveri riistvara kirjeldus</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>See raport on koostatud serveri riistvara konfiguratioonist. Võite selle lehe printida hilisemaks kasutuseks.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Riistvara informatsioon</trans>
+    </entry>
+</lexicon>

@@ -1,0 +1,14 @@
+<lexicon lang="nb">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Server maskinvare beskrivelse</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Rapporten oppsummerer serverens maskinvare oppsett. Du ønsker muligens å skrive ut denne siden som referanse.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Maskinvareinformasjon</trans>
+    </entry>
+</lexicon>

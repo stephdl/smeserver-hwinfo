@@ -1,0 +1,14 @@
+<lexicon lang="it">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Descrizione hardware del server</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Questo resoconto riassume la configurazione hardware del server. E' possibile stampare la pagina ed utilizzarla per consultazione.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Informazioni sul Hardware</trans>
+    </entry>
+</lexicon>

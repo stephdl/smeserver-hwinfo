@@ -1,0 +1,14 @@
+<lexicon lang="zh-cn">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>服务器硬件描述</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>这个报告收集了服务器的硬件配置信息。您可能希望打印此页留作参考。</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>硬件信息</trans>
+    </entry>
+</lexicon>

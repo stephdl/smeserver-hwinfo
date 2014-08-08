@@ -1,0 +1,14 @@
+<lexicon lang="zh-tw">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>伺服器硬體概要</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>此報告總結伺服器的硬體設定。您可能期望列印此頁作為參考。</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>硬體訊息</trans>
+    </entry>
+</lexicon>

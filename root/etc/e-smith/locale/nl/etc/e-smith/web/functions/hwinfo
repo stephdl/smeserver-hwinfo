@@ -1,0 +1,14 @@
+<lexicon lang="nl">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Server hardware beschrijving</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Dit rapport is een samenvatting van de hardware configuratie van de server. U kunt deze pagina afdrukken en als referentie gebruiken.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Hardware informatie</trans>
+    </entry>
+</lexicon>

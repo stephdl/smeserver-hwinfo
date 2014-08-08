@@ -1,0 +1,19 @@
+#!/usr/bin/perl -w
+
+use esmith::Build::CreateLinks  qw(:all);
+
+my $panel = "manager";
+
+panel_link("hwinfo", $panel);
+
+
+foreach (qw(
+	/etc/e-smith/web/common/css/hwinfo.css
+    ))
+{
+    templates2events("$_", qw(
+	console-save
+	bootstrap-console-save
+	));
+}
+

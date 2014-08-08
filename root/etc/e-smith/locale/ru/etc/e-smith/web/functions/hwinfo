@@ -1,0 +1,14 @@
+<lexicon lang="ru">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>Описание оборудования сервера</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>Этот отчёт показывает конфигурацию оборудования сервера. Вы можете распечатать эту страницу и использовать для справки.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>Информация об оборудовании</trans>
+    </entry>
+</lexicon>

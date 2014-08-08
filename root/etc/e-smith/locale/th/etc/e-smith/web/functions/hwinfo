@@ -1,0 +1,14 @@
+<lexicon lang="th">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>รายละเอียดฮาร์ดแวร์ของเซิร์ฟเวอร์</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>รายงานนี้เป็นสรุปการตั้งค่าฮาร์ดแวร์ของเซิร์ฟเวอร์ คุณสามารถพิมพ์หน้านี้เพื่อใช้เป็นข้อมูลอ้างอิง</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>ข้อมูลฮาร์ดแวร์</trans>
+    </entry>
+</lexicon>

@@ -1,0 +1,14 @@
+<lexicon lang="he">
+    <entry>
+        <base>FORM_TITLE</base>
+        <trans>תיאור חומרת שרת</trans>
+    </entry>	
+    <entry>
+        <base>DESCRIPTION</base>
+        <trans>דיווח זה מסכם את תצורת חומרת השרת. יתכן שתרצה להדפיס את הדף הזה ולהשתמש בו כהפניה.</trans>	
+    </entry>
+    <entry>
+        <base>Hardware Info</base>
+        <trans>מידע חומרה</trans>
+    </entry>
+</lexicon>
